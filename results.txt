@@ -1,0 +1,8 @@
+Valid student names and grades:
+Alice: 85
+Bob: 72
+Charlie: 38
+Diana: 95
+Average grade: 72.5
+Failing students:
+Charlie: 38
